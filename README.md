@@ -1,7 +1,7 @@
 # My Oblivious MILF, Public
 
 ### What is this?
-My Oblivious MILF is an Open-Source HTML game developed in Twine (Sugarcube 2).
+My Oblivious MILF is an Open-Source (Under *GNU General Public License*) HTML game developed in Twine (Sugarcube 2).
 This specific repo hosts the source code, and only the code, of the game's last public release.
 No images, no music, no notes. **This is NOT a fully playable version**.
 
